@@ -17,3 +17,7 @@ They are used to create shared project on the platform "Jupyter für die Lehre".
 
 ## Scripts
 WIP
+
+# Acknowledgements
+Many thanks to the bwJupyter team for their support!
+This project exists thanks to the University of Stuttgart, the KIT and the Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg.
